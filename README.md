@@ -1,7 +1,5 @@
 # Oi, eu sou a Gabriella! 👋
 
----
-
 ## 👩‍💻 Sobre mim
 
 - 📚 Estudante de Engenharia de Software
@@ -18,5 +16,5 @@
 
 Projeto desenvolvido durante o curso Técnico em Informática para gerenciamento de projetos acadêmicos.
 
-🔗 [Acessar projeto](LINK_DO_REPOSITORIO)
+🔗 [Acessar projeto](https://github.com/guihlerwe/Projetos_IFC-Ibirama_Website.git)
 
