@@ -37,7 +37,6 @@ Projeto desenvolvido durante o curso Técnico em Informática para gerenciamento
 
 ## 📫 Contato
 
-[LinkedIn] (www.linkedin.com/in/
-gabriella-sandner-0a5737363)
+[LinkedIn] (www.linkedin.com/in/)
 
 📧 gabriellasandner@gmail.com
