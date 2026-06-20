@@ -1,7 +1,6 @@
 # Oi, eu sou a Gabriella! 👋
 
-
-
+---
 
 ## 👩‍💻 Sobre mim
 
@@ -11,8 +10,7 @@
 - 💡 Interesse em Desenvolvimento de Software, Engenharia de Requisitos e Banco de Dados
 - 📍 Santa Catarina, Brasil
 
-
-
+---
 
 ## 📌 Projeto em destaque
 
@@ -22,8 +20,7 @@ Projeto desenvolvido durante o curso Técnico em Informática para gerenciamento
 
 🔗 [Acessar projeto](https://github.com/guihlerwe/Projetos_IFC-Ibirama_Website.git)
 
-
-
+---
 
 ## 🚀 Tecnologias
 
@@ -36,11 +33,10 @@ Projeto desenvolvido durante o curso Técnico em Informática para gerenciamento
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-
+---
 
 ## 📫 Contato
 
-[LinkedIn](www.linkedin.com/in/gabriella-sandner-0a5737363)
+[LinkedIn](gabriella-sandner-0a5737363)
 
 📧 gabriellasandner@gmail.com
